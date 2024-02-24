@@ -1,0 +1,47 @@
+.manager-dashboard {
+    margin: 20px;
+  }
+
+  .heading-div h2 {
+    font-weight: bold; /* This will make the heading bold */
+  }
+  
+  form {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 30px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  button {
+    margin-right: 5px;
+  }
+  
+  .approve-task-table, .assign-task-table {
+    color: black;
+  }
+  
+  /* Additional styles for AssignTask */
+  .blue-background {
+    background-color: #007bff; /* Bootstrap primary color */
+  }
+  
+  .alert {
+    margin-top: 20px;
+  }
+  
+  .btn-success {
+    background-color: #28a745; /* Bootstrap success color */
+  }
+  
+  /* You can add more styles specific to AssignTask here */
+  
